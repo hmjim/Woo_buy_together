@@ -4,7 +4,7 @@ Plugin Name: Woocommerce Frequently Bought Together
 Plugin URI:
 Description: display frequently bought products
 Author: hmjim 
-Version: 1.0.
+Version: 1.0
 Author URI:
 */
 
